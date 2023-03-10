@@ -2,4 +2,7 @@
 
 Code to use the module 9775 with cRIO-9053 via FPGA.
 
-There is a `record` mode to save all the data in the real-time os internal memory and there is a `continuous` mode to show data on the screen
+- The `record mode` saves snapshots of data in the internal memory of the real-time OS. 
+This is mode can reach up to 20 MS/s.
+
+- The `continuous mode` saves the data with limited speed, as fast as you can read the FIFO the module keeps acquiring data.
