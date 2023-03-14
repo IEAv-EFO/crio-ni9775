@@ -739,6 +739,7 @@ AddOutputFilter chunkFilter
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 			</Item>
+			<Item Name="ni9775crio9053_FPGATarget2_NI9775GettingSta_I+1qGd-Sz4M.lvbitx" Type="Document" URL="../FPGA Bitfiles/ni9775crio9053_FPGATarget2_NI9775GettingSta_I+1qGd-Sz4M.lvbitx"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
